@@ -1,6 +1,12 @@
 # Randoms
 Generate random values from provided data!
 
+## Installation
+
+```bash
+npm install randoms
+```
+
 ## Usage:
 
 ```js
