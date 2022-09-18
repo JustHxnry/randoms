@@ -1,0 +1,21 @@
+{
+  "name": "randoms",
+  "version": "1.0.0",
+  "description": "Generates random values from provided data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustHxnry/randoms.git"
+  },
+  "keywords": [
+    "random",
+    "generate",
+    "character"
+  ],
+  "author": "JustHxnry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustHxnry/randoms/issues"
+  },
+  "homepage": "https://github.com/JustHxnry/randoms#readme"
+}
