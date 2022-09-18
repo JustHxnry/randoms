@@ -4,13 +4,13 @@ Generate random values from provided data!
 ## Installation
 
 ```bash
-npm install randoms
+npm install @justhxnry/randoms
 ```
 
 ## Usage:
 
 ```js
-const randoms = require('randoms');
+const randoms = require('@justhxnry/randoms');
 
 var array = [1, 2, 3, 4, 5, 6, 7, 8];
 var object = { firstName: "John", lastName: "Doe", fullName: "John Doe", age: 42, gender: "male" };

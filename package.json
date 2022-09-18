@@ -1,5 +1,5 @@
 {
-  "name": "randoms",
+  "name": "@justhxnry/randoms",
   "version": "1.0.0",
   "description": "Generates random values from provided data",
   "main": "index.js",
